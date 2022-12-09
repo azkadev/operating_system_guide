@@ -82,3 +82,18 @@ dw 0xaa55
 
 Bootloader ini akan mencetak pesan pengantar ke layar, lalu menjalankan sistem operasi yang berada pada lokasi memori 0x0000:0x7e00.
 Anda dapat menggunakan kode ini sebagai dasar untuk membuat bootloader yang lebih kompleks sesuai kebutuhan. Selamat mencoba!
+
+
+## Run BootLoader
+
+### Linux
+
+Untuk menjalankan kode bootloader di Linux, Anda dapat menggunakan beberapa langkah sederhana sebagai berikut:
+
+1. Pastikan Anda sudah memiliki kode bootloader yang akan Anda jalankan. Anda dapat menggunakan kode yang ditunjukkan di atas sebagai contoh.
+Buat sebuah file baru dengan nama yang sesuai, misalnya "bootloader.asm". Kemudian ketikkan atau salin kode bootloader ke dalam file tersebut.
+2. Buka Terminal Linux dan arahkan ke direktori tempat Anda menyimpan file bootloader.asm tadi.
+3. Ketikkan perintah "nasm -f bin bootloader.asm -o bootloader.bin" untuk meng-compile kode bootloader menjadi file biner yang dapat dieksekusi.
+4. Setelah berhasil dicompile, ketikkan perintah "qemu-system-i386 bootloader.bin" untuk menjalankan bootloader di dalam emulator QEMU.
+
+Jika semuanya berjalan lancar, bootloader akan dijalankan di dalam emulator dan Anda akan dapat melihat hasilnya. Anda dapat menggunakan emulator ini untuk menguji bootloader yang Anda buat sebelum mencoba di perangkat nyata. Selamat mencoba!   
