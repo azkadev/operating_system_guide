@@ -97,3 +97,20 @@ Buat sebuah file baru dengan nama yang sesuai, misalnya "bootloader.asm". Kemudi
 4. Setelah berhasil dicompile, ketikkan perintah "qemu-system-i386 bootloader.bin" untuk menjalankan bootloader di dalam emulator QEMU.
 
 Jika semuanya berjalan lancar, bootloader akan dijalankan di dalam emulator dan Anda akan dapat melihat hasilnya. Anda dapat menggunakan emulator ini untuk menguji bootloader yang Anda buat sebelum mencoba di perangkat nyata. Selamat mencoba!   
+
+
+### Menambahkan Kode Cpp
+
+Untuk menambahkan kode C++ ke dalam bootloader, Anda dapat mengikuti beberapa langkah sederhana sebagai berikut:
+
+1. Pastikan Anda sudah memiliki kode bootloader yang akan Anda modifikasi. Anda dapat menggunakan kode yang ditunjukkan di atas sebagai contoh.
+2. Buat sebuah file baru dengan nama yang sesuai, misalnya "main.cpp". Kemudian ketikkan atau salin kode C++ yang akan Anda tambahkan ke dalam file tersebut.
+3. Buka Terminal Linux dan arahkan ke direktori tempat Anda menyimpan file main.cpp tadi.
+4. Ketikkan perintah "g++ main.cpp -o main.o" untuk meng-compile kode C++ menjadi file objek yang dapat digunakan oleh bootloader.
+5. Kemudian, buka file bootloader.asm yang sudah Anda buat sebelumnya dan tambahkan perintah untuk menginkludekan file objek main.o yang sudah Anda buat. Perintahnya adalah "extern _main", tanpa tanda petik.
+6. Selanjutnya, tambahkan perintah untuk memanggil fungsi _main dari file objek main.o. Perintahnya adalah "call _main", juga tanpa tanda petik.
+7. Simpan perubahan yang Anda buat di file bootloader.asm dan kembali ke Terminal.
+8. Jalankan perintah "nasm -f bin bootloader.asm -o bootloader.bin" untuk meng-compile ulang bootloader menggunakan kode yang sudah Anda modifikasi.
+9. Setelah selesai dicompile, jalankan bootloader dengan menggunakan perintah "qemu-system-i386 bootloader.bin" untuk menguji apakah kode C++ yang Anda tambahkan berfungsi dengan baik.
+    
+Jika semuanya berjalan lancar, bootloader akan dijalankan dan kode C++ yang Anda tambahkan akan dieksekusi sesuai dengan yang diharapkan. Anda dapat memodifikasi kode tersebut sesuai kebutuhan untuk membuat bootloader yang lebih kompleks. Selamat mencoba!
