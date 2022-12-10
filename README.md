@@ -88,6 +88,7 @@ Anda dapat menggunakan kode ini sebagai dasar untuk membuat bootloader yang lebi
 ## Run BootLoader
 
 ### Linux
+![Screenshot from 2022-12-10 08-14-12](https://user-images.githubusercontent.com/82513502/206821382-e8460bac-e4dc-4960-8b5c-3946ee3b34f7.png)
 
 Untuk menjalankan kode bootloader di Linux, Anda dapat menggunakan beberapa langkah sederhana sebagai berikut:
 
