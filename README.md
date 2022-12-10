@@ -12,6 +12,7 @@ Sebagai catatan, sistem operasi sederhana yang ditunjukkan di atas hanya merupak
 
 
 ## Bootloader
+Bootloader adalah program yang berjalan pada saat komputer pertama kali dinyalakan (biasanya disebut "boot" atau "startup"). Tujuan utama bootloader adalah untuk mempersiapkan sistem operasi untuk dijalankan, dengan cara mengatur alokasi memori, menginisialisasi hardware, dan melakukan tugas lain yang diperlukan untuk mempersiapkan sistem untuk menjalankan sistem operasi.
 
 ```asm
 ; Bootloader yang sederhana
