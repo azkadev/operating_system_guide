@@ -1,118 +1,123 @@
-# operating system simple
+IyBvcGVyYXRpbmcgc3lzdGVtIHNpbXBsZQoKTWVtYnVhdCBzaXN0ZW0gb3Bl
+cmFzaSBzZWRlcmhhbmEgZGFwYXQgZGlsYWt1a2FuIGRlbmdhbiBiZWJlcmFw
+YSBsYW5na2FoIHNlZGVyaGFuYSBzZWJhZ2FpIGJlcmlrdXQ6CgoxLiBCdWF0
+IHNlYnVhaCBwcm9qZWN0IGJhcnUgZGkgSW50ZWdyYXRlZCBEZXZlbG9wbWVu
+dCBFbnZpcm9ubWVudCAoSURFKSBDKysgeWFuZyBBbmRhIGd1bmFrYW4uCjIu
+IEJ1YXQgc2VidWFoIGZpbGUgYmFydSBkZW5nYW4gbmFtYSB5YW5nIHNlc3Vh
+aSwgbWlzYWxueWEgIm1haW4uY3BwIi4gSW5pIGFrYW4gbWVuamFkaSBmaWxl
+IHV0YW1hIGRhcmkgc2lzdGVtIG9wZXJhc2kgeWFuZyBBbmRhIGJ1YXQuCjMu
+IEtldGlra2FuIGtvZGUgc2lzdGVtIG9wZXJhc2kgc2VkZXJoYW5hIHNlcGVy
+dGkgeWFuZyBkaXR1bmp1a2thbiBkaSBhdGFzLCBhdGF1IGd1bmFrYW4ga29k
+ZSBBbmRhIHNlbmRpcmkgamlrYSBBbmRhIHN1ZGFoIG1lbWlsaWtpbnlhLgo0
+LiBDb21waWxlIGRhbiBqYWxhbmthbiBwcm9ncmFtIHRlcnNlYnV0IHVudHVr
+IG1lbWFzdGlrYW4gYmFod2Egc2lzdGVtIG9wZXJhc2kgYmVyZnVuZ3NpIHNl
+YmFnYWltYW5hIG1lc3RpbnlhLgo1LiBKaWthIHNpc3RlbSBvcGVyYXNpIGJl
+cmphbGFuIGRlbmdhbiBiYWlrLCBBbmRhIGRhcGF0IG1lbmdlbWJhbmdrYW4g
+bGViaWggbGFuanV0IHNlc3VhaSBrZWJ1dHVoYW4sIG1pc2FsbnlhIGRlbmdh
+biBtZW5hbWJhaGthbiBmaXR1ci1maXR1ciBiYXJ1IGF0YXUgbWVtcGVyYmFp
+a2kgYnVnIHlhbmcgbXVuZ2tpbiBhZGEuCgpTZWJhZ2FpIGNhdGF0YW4sIHNp
+c3RlbSBvcGVyYXNpIHNlZGVyaGFuYSB5YW5nIGRpdHVuanVra2FuIGRpIGF0
+YXMgaGFueWEgbWVydXBha2FuIGNvbnRvaCBzZWRlcmhhbmEuIEFuZGEgZGFw
+YXQgbWVtb2RpZmlrYXNpIGRhbiBtZW5nZW1iYW5na2FuIGtvZGUgdGVyc2Vi
+dXQgc2VzdWFpIGtlYnV0dWhhbiB1bnR1ayBtZW1idWF0IHNpc3RlbSBvcGVy
+YXNpIHlhbmcgbGViaWgga29tcGxla3MuIFNlbGFtYXQgbWVuY29iYQoKCiMj
+IEJvb3Rsb2FkZXIKQm9vdGxvYWRlciBhZGFsYWggcHJvZ3JhbSB5YW5nIGJl
+cmphbGFuIHBhZGEgc2FhdCBrb21wdXRlciBwZXJ0YW1hIGthbGkgZGlueWFs
+YWthbiAoYmlhc2FueWEgZGlzZWJ1dCAiYm9vdCIgYXRhdSAic3RhcnR1cCIp
+LiBUdWp1YW4gdXRhbWEgYm9vdGxvYWRlciBhZGFsYWggdW50dWsgbWVtcGVy
+c2lhcGthbiBzaXN0ZW0gb3BlcmFzaSB1bnR1ayBkaWphbGFua2FuLCBkZW5n
+YW4gY2FyYSBtZW5nYXR1ciBhbG9rYXNpIG1lbW9yaSwgbWVuZ2luaXNpYWxp
+c2FzaSBoYXJkd2FyZSwgZGFuIG1lbGFrdWthbiB0dWdhcyBsYWluIHlhbmcg
+ZGlwZXJsdWthbiB1bnR1ayBtZW1wZXJzaWFwa2FuIHNpc3RlbSB1bnR1ayBt
+ZW5qYWxhbmthbiBzaXN0ZW0gb3BlcmFzaS4KCmBgYGFzbQo7IEJvb3Rsb2Fk
+ZXIgeWFuZyBzZWRlcmhhbmEKCjsgU2V0ZWwgc2VnbWVuIGtvZGUgZGFuIGRh
+dGEKb3JnIDB4N2MwMAoKOyBDZXRhayBwZXNhbiBwZW5nYW50YXIKbW92IGFo
+LCAweDBlCm1vdiBiaCwgMHgwMAptb3YgYmwsIDB4MDcKbW92IGFsLCAnQicK
+aW50IDB4MTAKbW92IGFsLCAnbycKaW50IDB4MTAKbW92IGFsLCAnbycKaW50
+IDB4MTAKbW92IGFsLCAndCcKaW50IDB4MTAKbW92IGFsLCAnbCcKaW50IDB4
+MTAKbW92IGFsLCAnbycKaW50IDB4MTAKbW92IGFsLCAnYScKaW50IDB4MTAK
+bW92IGFsLCAnZCcKaW50IDB4MTAKbW92IGFsLCAnZScKaW50IDB4MTAKbW92
+IGFsLCAncicKaW50IDB4MTAKbW92IGFsLCAnICcKaW50IDB4MTAKbW92IGFs
+LCAncycKaW50IDB4MTAKbW92IGFsLCAnZScKaW50IDB4MTAKbW92IGFsLCAn
+ZCcKaW50IDB4MTAKbW92IGFsLCAnZScKaW50IDB4MTAKbW92IGFsLCAncicK
+aW50IDB4MTAKbW92IGFsLCAnaCcKaW50IDB4MTAKbW92IGFsLCAnYScKaW50
+IDB4MTAKbW92IGFsLCAnbicKaW50IDB4MTAKbW92IGFsLCAnYScKaW50IDB4
+MTAKCjsgQ2V0YWsgYmFyaXMgYmFydQptb3YgYWwsIDB4MGQKaW50IDB4MTAK
+bW92IGFsLCAweDBhCmludCAweDEwCgo7IEphbGFua2FuIHNpc3RlbSBvcGVy
+YXNpCmptcCAweDAwMDA6MHg3ZTAwCgo7IFRhbWJhaGthbiBwYWRkaW5nIHNh
+bXBhaSA1MTIgYnl0ZQp0aW1lcyA1MTAtKCQtJCQpIGRiIDAKCjsgVGFtYmFo
+a2FuIG1hZ2ljIG51bWJlcgpkdyAweGFhNTUKYGBgCgpCb290bG9hZGVyIGlu
+aSBha2FuIG1lbmNldGFrIHBlc2FuIHBlbmdhbnRhciBrZSBsYXlhciwgbGFs
+dSBtZW5qYWxhbmthbiBzaXN0ZW0gb3BlcmFzaSB5YW5nIGJlcmFkYSBwYWRh
+IGxva2FzaSBtZW1vcmkgMHgwMDAwOjB4N2UwMC4KQW5kYSBkYXBhdCBtZW5n
+Z3VuYWthbiBrb2RlIGluaSBzZWJhZ2FpIGRhc2FyIHVudHVrIG1lbWJ1YXQg
+Ym9vdGxvYWRlciB5YW5nIGxlYmloIGtvbXBsZWtzIHNlc3VhaSBrZWJ1dHVo
+YW4uIFNlbGFtYXQgbWVuY29iYSEKCgojIyBSdW4gQm9vdExvYWRlcgoKIyMj
+IExpbnV4CiFbU2NyZWVuc2hvdCBmcm9tIDIwMjItMTItMTAgMDgtMTQtMTJd
+KGh0dHBzOi8vdXNlci1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzgy
+NTEzNTAyLzIwNjgyMTM4Mi1lODQ2MGJhYy1lNGRjLTQ5NjAtOGI1Yy0zOTQ2
+ZWUzYjM0ZjcucG5nKQoKVW50dWsgbWVuamFsYW5rYW4ga29kZSBib290bG9h
+ZGVyIGRpIExpbnV4LCBBbmRhIGRhcGF0IG1lbmdndW5ha2FuIGJlYmVyYXBh
+IGxhbmdrYWggc2VkZXJoYW5hIHNlYmFnYWkgYmVyaWt1dDoKCjEuIFBhc3Rp
+a2FuIEFuZGEgc3VkYWggbWVtaWxpa2kga29kZSBib290bG9hZGVyIHlhbmcg
+YWthbiBBbmRhIGphbGFua2FuLiBBbmRhIGRhcGF0IG1lbmdndW5ha2FuIGtv
+ZGUgeWFuZyBkaXR1bmp1a2thbiBkaSBhdGFzIHNlYmFnYWkgY29udG9oLgpC
+dWF0IHNlYnVhaCBmaWxlIGJhcnUgZGVuZ2FuIG5hbWEgeWFuZyBzZXN1YWks
+IG1pc2FsbnlhICJib290bG9hZGVyLmFzbSIuIEtlbXVkaWFuIGtldGlra2Fu
+IGF0YXUgc2FsaW4ga29kZSBib290bG9hZGVyIGtlIGRhbGFtIGZpbGUgdGVy
+c2VidXQuCjIuIEJ1a2EgVGVybWluYWwgTGludXggZGFuIGFyYWhrYW4ga2Ug
+ZGlyZWt0b3JpIHRlbXBhdCBBbmRhIG1lbnlpbXBhbiBmaWxlIGJvb3Rsb2Fk
+ZXIuYXNtIHRhZGkuCjMuIEtldGlra2FuIHBlcmludGFoICJuYXNtIC1mIGJp
+biBib290bG9hZGVyLmFzbSAtbyBib290bG9hZGVyLmJpbiIgdW50dWsgbWVu
+Zy1jb21waWxlIGtvZGUgYm9vdGxvYWRlciBtZW5qYWRpIGZpbGUgYmluZXIg
+eWFuZyBkYXBhdCBkaWVrc2VrdXNpLgo0LiBTZXRlbGFoIGJlcmhhc2lsIGRp
+Y29tcGlsZSwga2V0aWtrYW4gcGVyaW50YWggInFlbXUtc3lzdGVtLWkzODYg
+Ym9vdGxvYWRlci5iaW4iIHVudHVrIG1lbmphbGFua2FuIGJvb3Rsb2FkZXIg
+ZGkgZGFsYW0gZW11bGF0b3IgUUVNVS4KCkppa2Egc2VtdWFueWEgYmVyamFs
+YW4gbGFuY2FyLCBib290bG9hZGVyIGFrYW4gZGlqYWxhbmthbiBkaSBkYWxh
+bSBlbXVsYXRvciBkYW4gQW5kYSBha2FuIGRhcGF0IG1lbGloYXQgaGFzaWxu
+eWEuIEFuZGEgZGFwYXQgbWVuZ2d1bmFrYW4gZW11bGF0b3IgaW5pIHVudHVr
+IG1lbmd1amkgYm9vdGxvYWRlciB5YW5nIEFuZGEgYnVhdCBzZWJlbHVtIG1l
+bmNvYmEgZGkgcGVyYW5na2F0IG55YXRhLiBTZWxhbWF0IG1lbmNvYmEhICAg
+CgoKIyMjIE1lbmFtYmFoa2FuIEtvZGUgQ3BwCgpVbnR1ayBtZW5hbWJhaGth
+biBrb2RlIEMrKyBrZSBkYWxhbSBib290bG9hZGVyLCBBbmRhIGRhcGF0IG1l
+bmdpa3V0aSBiZWJlcmFwYSBsYW5na2FoIHNlZGVyaGFuYSBzZWJhZ2FpIGJl
+cmlrdXQ6CgoxLiBQYXN0aWthbiBBbmRhIHN1ZGFoIG1lbWlsaWtpIGtvZGUg
+Ym9vdGxvYWRlciB5YW5nIGFrYW4gQW5kYSBtb2RpZmlrYXNpLiBBbmRhIGRh
+cGF0IG1lbmdndW5ha2FuIGtvZGUgeWFuZyBkaXR1bmp1a2thbiBkaSBhdGFz
+IHNlYmFnYWkgY29udG9oLgoyLiBCdWF0IHNlYnVhaCBmaWxlIGJhcnUgZGVu
+Z2FuIG5hbWEgeWFuZyBzZXN1YWksIG1pc2FsbnlhICJtYWluLmNwcCIuIEtl
+bXVkaWFuIGtldGlra2FuIGF0YXUgc2FsaW4ga29kZSBDKysgeWFuZyBha2Fu
+IEFuZGEgdGFtYmFoa2FuIGtlIGRhbGFtIGZpbGUgdGVyc2VidXQuCjMuIEJ1
+a2EgVGVybWluYWwgTGludXggZGFuIGFyYWhrYW4ga2UgZGlyZWt0b3JpIHRl
+bXBhdCBBbmRhIG1lbnlpbXBhbiBmaWxlIG1haW4uY3BwIHRhZGkuCjQuIEtl
+dGlra2FuIHBlcmludGFoICJnKysgbWFpbi5jcHAgLW8gbWFpbi5vIiB1bnR1
+ayBtZW5nLWNvbXBpbGUga29kZSBDKysgbWVuamFkaSBmaWxlIG9iamVrIHlh
+bmcgZGFwYXQgZGlndW5ha2FuIG9sZWggYm9vdGxvYWRlci4KNS4gS2VtdWRp
+YW4sIGJ1a2EgZmlsZSBib290bG9hZGVyLmFzbSB5YW5nIHN1ZGFoIEFuZGEg
+YnVhdCBzZWJlbHVtbnlhIGRhbiB0YW1iYWhrYW4gcGVyaW50YWggdW50dWsg
+bWVuZ2lua2x1ZGVrYW4gZmlsZSBvYmplayBtYWluLm8geWFuZyBzdWRhaCBB
+bmRhIGJ1YXQuIFBlcmludGFobnlhIGFkYWxhaCAiZXh0ZXJuIF9tYWluIiwg
+dGFucGEgdGFuZGEgcGV0aWsuCjYuIFNlbGFuanV0bnlhLCB0YW1iYWhrYW4g
+cGVyaW50YWggdW50dWsgbWVtYW5nZ2lsIGZ1bmdzaSBfbWFpbiBkYXJpIGZp
+bGUgb2JqZWsgbWFpbi5vLiBQZXJpbnRhaG55YSBhZGFsYWggImNhbGwgX21h
+aW4iLCBqdWdhIHRhbnBhIHRhbmRhIHBldGlrLgo3LiBTaW1wYW4gcGVydWJh
+aGFuIHlhbmcgQW5kYSBidWF0IGRpIGZpbGUgYm9vdGxvYWRlci5hc20gZGFu
+IGtlbWJhbGkga2UgVGVybWluYWwuCjguIEphbGFua2FuIHBlcmludGFoICJu
+YXNtIC1mIGJpbiBib290bG9hZGVyLmFzbSAtbyBib290bG9hZGVyLmJpbiIg
+dW50dWsgbWVuZy1jb21waWxlIHVsYW5nIGJvb3Rsb2FkZXIgbWVuZ2d1bmFr
+YW4ga29kZSB5YW5nIHN1ZGFoIEFuZGEgbW9kaWZpa2FzaS4KOS4gU2V0ZWxh
+aCBzZWxlc2FpIGRpY29tcGlsZSwgamFsYW5rYW4gYm9vdGxvYWRlciBkZW5n
+YW4gbWVuZ2d1bmFrYW4gcGVyaW50YWggInFlbXUtc3lzdGVtLWkzODYgYm9v
+dGxvYWRlci5iaW4iIHVudHVrIG1lbmd1amkgYXBha2FoIGtvZGUgQysrIHlh
+bmcgQW5kYSB0YW1iYWhrYW4gYmVyZnVuZ3NpIGRlbmdhbiBiYWlrLgogICAg
+Ckppa2Egc2VtdWFueWEgYmVyamFsYW4gbGFuY2FyLCBib290bG9hZGVyIGFr
+YW4gZGlqYWxhbmthbiBkYW4ga29kZSBDKysgeWFuZyBBbmRhIHRhbWJhaGth
+biBha2FuIGRpZWtzZWt1c2kgc2VzdWFpIGRlbmdhbiB5YW5nIGRpaGFyYXBr
+YW4uIEFuZGEgZGFwYXQgbWVtb2RpZmlrYXNpIGtvZGUgdGVyc2VidXQgc2Vz
+dWFpIGtlYnV0dWhhbiB1bnR1ayBtZW1idWF0IGJvb3Rsb2FkZXIgeWFuZyBs
+ZWJpaCBrb21wbGVrcy4gU2VsYW1hdCBtZW5jb2JhIQo=
 
-Membuat sistem operasi sederhana dapat dilakukan dengan beberapa langkah sederhana sebagai berikut:
-
-1. Buat sebuah project baru di Integrated Development Environment (IDE) C++ yang Anda gunakan.
-2. Buat sebuah file baru dengan nama yang sesuai, misalnya "main.cpp". Ini akan menjadi file utama dari sistem operasi yang Anda buat.
-3. Ketikkan kode sistem operasi sederhana seperti yang ditunjukkan di atas, atau gunakan kode Anda sendiri jika Anda sudah memilikinya.
-4. Compile dan jalankan program tersebut untuk memastikan bahwa sistem operasi berfungsi sebagaimana mestinya.
-5. Jika sistem operasi berjalan dengan baik, Anda dapat mengembangkan lebih lanjut sesuai kebutuhan, misalnya dengan menambahkan fitur-fitur baru atau memperbaiki bug yang mungkin ada.
-
-Sebagai catatan, sistem operasi sederhana yang ditunjukkan di atas hanya merupakan contoh sederhana. Anda dapat memodifikasi dan mengembangkan kode tersebut sesuai kebutuhan untuk membuat sistem operasi yang lebih kompleks. Selamat mencoba
-
-
-## Bootloader
-Bootloader adalah program yang berjalan pada saat komputer pertama kali dinyalakan (biasanya disebut "boot" atau "startup"). Tujuan utama bootloader adalah untuk mempersiapkan sistem operasi untuk dijalankan, dengan cara mengatur alokasi memori, menginisialisasi hardware, dan melakukan tugas lain yang diperlukan untuk mempersiapkan sistem untuk menjalankan sistem operasi.
-
-```asm
-; Bootloader yang sederhana
-
-; Setel segmen kode dan data
-org 0x7c00
-
-; Cetak pesan pengantar
-mov ah, 0x0e
-mov bh, 0x00
-mov bl, 0x07
-mov al, 'B'
-int 0x10
-mov al, 'o'
-int 0x10
-mov al, 'o'
-int 0x10
-mov al, 't'
-int 0x10
-mov al, 'l'
-int 0x10
-mov al, 'o'
-int 0x10
-mov al, 'a'
-int 0x10
-mov al, 'd'
-int 0x10
-mov al, 'e'
-int 0x10
-mov al, 'r'
-int 0x10
-mov al, ' '
-int 0x10
-mov al, 's'
-int 0x10
-mov al, 'e'
-int 0x10
-mov al, 'd'
-int 0x10
-mov al, 'e'
-int 0x10
-mov al, 'r'
-int 0x10
-mov al, 'h'
-int 0x10
-mov al, 'a'
-int 0x10
-mov al, 'n'
-int 0x10
-mov al, 'a'
-int 0x10
-
-; Cetak baris baru
-mov al, 0x0d
-int 0x10
-mov al, 0x0a
-int 0x10
-
-; Jalankan sistem operasi
-jmp 0x0000:0x7e00
-
-; Tambahkan padding sampai 512 byte
-times 510-($-$$) db 0
-
-; Tambahkan magic number
-dw 0xaa55
-```
-
-Bootloader ini akan mencetak pesan pengantar ke layar, lalu menjalankan sistem operasi yang berada pada lokasi memori 0x0000:0x7e00.
-Anda dapat menggunakan kode ini sebagai dasar untuk membuat bootloader yang lebih kompleks sesuai kebutuhan. Selamat mencoba!
-
-
-## Run BootLoader
-
-### Linux
-![Screenshot from 2022-12-10 08-14-12](https://user-images.githubusercontent.com/82513502/206821382-e8460bac-e4dc-4960-8b5c-3946ee3b34f7.png)
-
-Untuk menjalankan kode bootloader di Linux, Anda dapat menggunakan beberapa langkah sederhana sebagai berikut:
-
-1. Pastikan Anda sudah memiliki kode bootloader yang akan Anda jalankan. Anda dapat menggunakan kode yang ditunjukkan di atas sebagai contoh.
-Buat sebuah file baru dengan nama yang sesuai, misalnya "bootloader.asm". Kemudian ketikkan atau salin kode bootloader ke dalam file tersebut.
-2. Buka Terminal Linux dan arahkan ke direktori tempat Anda menyimpan file bootloader.asm tadi.
-3. Ketikkan perintah "nasm -f bin bootloader.asm -o bootloader.bin" untuk meng-compile kode bootloader menjadi file biner yang dapat dieksekusi.
-4. Setelah berhasil dicompile, ketikkan perintah "qemu-system-i386 bootloader.bin" untuk menjalankan bootloader di dalam emulator QEMU.
-
-Jika semuanya berjalan lancar, bootloader akan dijalankan di dalam emulator dan Anda akan dapat melihat hasilnya. Anda dapat menggunakan emulator ini untuk menguji bootloader yang Anda buat sebelum mencoba di perangkat nyata. Selamat mencoba!   
-
-
-### Menambahkan Kode Cpp
-
-Untuk menambahkan kode C++ ke dalam bootloader, Anda dapat mengikuti beberapa langkah sederhana sebagai berikut:
-
-1. Pastikan Anda sudah memiliki kode bootloader yang akan Anda modifikasi. Anda dapat menggunakan kode yang ditunjukkan di atas sebagai contoh.
-2. Buat sebuah file baru dengan nama yang sesuai, misalnya "main.cpp". Kemudian ketikkan atau salin kode C++ yang akan Anda tambahkan ke dalam file tersebut.
-3. Buka Terminal Linux dan arahkan ke direktori tempat Anda menyimpan file main.cpp tadi.
-4. Ketikkan perintah "g++ main.cpp -o main.o" untuk meng-compile kode C++ menjadi file objek yang dapat digunakan oleh bootloader.
-5. Kemudian, buka file bootloader.asm yang sudah Anda buat sebelumnya dan tambahkan perintah untuk menginkludekan file objek main.o yang sudah Anda buat. Perintahnya adalah "extern _main", tanpa tanda petik.
-6. Selanjutnya, tambahkan perintah untuk memanggil fungsi _main dari file objek main.o. Perintahnya adalah "call _main", juga tanpa tanda petik.
-7. Simpan perubahan yang Anda buat di file bootloader.asm dan kembali ke Terminal.
-8. Jalankan perintah "nasm -f bin bootloader.asm -o bootloader.bin" untuk meng-compile ulang bootloader menggunakan kode yang sudah Anda modifikasi.
-9. Setelah selesai dicompile, jalankan bootloader dengan menggunakan perintah "qemu-system-i386 bootloader.bin" untuk menguji apakah kode C++ yang Anda tambahkan berfungsi dengan baik.
-    
-Jika semuanya berjalan lancar, bootloader akan dijalankan dan kode C++ yang Anda tambahkan akan dieksekusi sesuai dengan yang diharapkan. Anda dapat memodifikasi kode tersebut sesuai kebutuhan untuk membuat bootloader yang lebih kompleks. Selamat mencoba!
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
